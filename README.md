@@ -1,9 +1,5 @@
 # Radev's Smart Contract Developer Portfolio
 
-## ✅ Worked with:
-
-[LootLiquid](https://x.com/lootliquid?lang=bg), [Bonsai DAO](https://www.bonsaidao.xyz/) and Rodeo Finance.
-
 ## 🤝 Contacts
 
 - Twitter - [@radev_eth](https://twitter.com/radev_eth)
